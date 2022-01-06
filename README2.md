@@ -6,3 +6,4 @@ thihrd stuff
 added copyright
 more
 changed humans
+version 2
